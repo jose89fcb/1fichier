@@ -2,7 +2,7 @@ Pequeño script en python para saber cuando caduca tu cuenta premium de <a targe
 <br>
 <br>
 
-Añade tu correo y clave dentro del archivo "1fhicier.py"
+Añade tu correo y clave dentro del archivo "1fichier.py"
 
 EMAIL = ""      # Tu email 1fichier
 <br>
