@@ -8,3 +8,7 @@ EMAIL = ""      # Tu email 1fichier
 <br>
 PASSWORD = ""   # Tu contraseña
 
+<br>
+<br>
+<img src="https://i.imgur.com/vJoi6hN.png">
+
